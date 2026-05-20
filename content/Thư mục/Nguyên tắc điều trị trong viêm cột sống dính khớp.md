@@ -1,0 +1,1 @@
+Do đây là bệnh mạn tính nên cần điều trị lâu dài (thuốc chống viêm, giảm đau, giãn cơ, điều trị sinh học). Salazopyrin được chỉ định với thể khớp ngoại vi. Vật lý trị liệu, phục hồi chức năng, chế độ tập luyện và bảo vệ tư thế các khớp và cột sống, thay đổi lối sống đóng vai trò quan trọng.

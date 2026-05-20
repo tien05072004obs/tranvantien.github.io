@@ -1,0 +1,1 @@
+Nguyên nhân của bệnh có thể là hậu quả của sự tác động qua lại giữa yếu tố di truyền, nội tiết, môi trường sống (thuốc, tia cực tím, nhiễm trùng, virus nội sinh…). Cơ chế trung gian là các tự kháng thể và có thể là phản ứng tăng nhạy cảm chậm với trung gian tế bào.

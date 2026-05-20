@@ -1,7 +1,4 @@
----
-title: Y khoa
----
-# CƠ XƯƠNG KHỚP
+%% Begin Waypoint %%
 - **01. LEC**
 	- [[Gút]]
 	- [[Loãng xương]]
@@ -22,7 +19,4 @@ title: Y khoa
 - **05. BỆNH ÁN**
 	- [[Bệnh án Lupus ban đỏ hệ thống]]
 
-![image.png](https://cdn.jsdelivr.net/gh/tien05072004obs/obsidian-images@main/img/20260520235136102.png)
-
-
-
+%% End Waypoint %%

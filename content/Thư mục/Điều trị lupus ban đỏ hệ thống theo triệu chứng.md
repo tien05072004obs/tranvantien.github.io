@@ -1,0 +1,14 @@
+[[Lâm sàng lupus ban đỏ hệ thống]]
+- **Sốt** → aspirin. NSAIDs, corticoid
+- **Đau khớp** → aspirin, NSAIDs, CSRTH, nếu có viêm khớp rõ thì dùng thêm corticoid. Có thể dùng MTX trong điều trị viêm khớp và viêm da 
+- **Ban ở da** → corticoid ngoài da + CSRTH 
+- **Viêm màng phổi, màng ngoài tim** → NSAIDs, CSRTH 
+- **Tổn thương phổi** → Corticoid 
+- **Tăng huyết áp** → lợi tiều, chẹn ß giao cảm, ƯCMC, hoặc thuốc khác 
+- **Giảm tiểu cầu, thiếu máu** → corticoid rất hiệu quả 
+	- Trường hợp kháng/phụ thuộc corticoid → danazol, dapson hay tiêm truyền vinblastin. Nhưng thường áp dụng cắt lách, sau đó tiêm vaccin kháng phế cầu. 
+	- Truyền gammaglobulin miễn dịch, thường có hiệu lực ngắn hạn, chỉ được dùng khi giảm tiểu cầu nặng và chuẩn bị cho phẫu thuật, đặc biệt cắt lách.
+- **Tổn thương thận** 
+	- Corticoid (thậm chí bolus) → không hiệu quả: thuốc ƯCMD (bolus tĩnh mạch). 
+	- Nếu có tổn thương thận giai đoạn cuối → kế hoạch chạy thận, ghép thận 
+- **Cơn migren** → Propranolol

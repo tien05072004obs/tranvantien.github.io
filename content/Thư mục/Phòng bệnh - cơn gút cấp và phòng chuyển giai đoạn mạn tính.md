@@ -1,0 +1,1 @@
+Chế độ ăn giảm đạm, đặc biệt loại có chứa purin; Kiềm hoá nước tiểu; Uống nhiều nước; Thuốc hạ acid uric nếu cần; Điều chỉnh cân nặng ở mức sinh lý; Tránh hoạt động thể dục thể thao, hoạt động thể lực quá mức.

@@ -1,0 +1,6 @@
+- Lupus là một bệnh tự miễn dịch hệ thống mạn tính có các đợt tiến triến bệnh và lui bệnh. 
+- Bệnh có rất nhiều đặc điểm lâm sàng có khi biểu hiện rất nhẹ nhưng cũng có khi bệnh tiến triển rất nhanh dẫn đến tử vong. 
+- Thường gặp các đợt tiến triển trên nền mạn tính. 
+- Tuy nhiên, xấp xỉ 20% số bệnh nhân có thời gian lui bệnh trung bình 5 năm, một số có thời gian lui bệnh kéo dài hàng chục năm. 
+- Ngày nay hầu hết những bệnh nhân LBH tử vong thường do biến chứng nhiễm trùng cơ hội (33%), suy thận mạn tính (18%), biến chứng não-mạch máu (10%) chứ ít khi do chính bản thân nó. 
+- Nhiễm khuẩn, suy thận thường là nguyên nhân tử vong trong thập niên đầu của bệnh. Tắc mạch thường là nguyên nhân chết trong thập niên thứ hai.

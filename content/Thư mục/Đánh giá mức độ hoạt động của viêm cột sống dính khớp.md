@@ -1,0 +1,3 @@
+- Đánh giá bệnh hoạt động theo chỉ số hoạt động (BASDAI-Bath Ankylosing Spondylitis Disease Activity Index) gồm 6 câu hỏi (do bệnh nhân tự trả lời). 
+- Điểm số của chỉ số BASDAI là tổng điểm của 6 vấn đề được khảo sát. Chỉ số này từ 0-60 điểm. Bệnh được coi là hoạt động khi chỉ số BASDAI ≥ 4.
+- [[Chỉ số BASDAI]] 

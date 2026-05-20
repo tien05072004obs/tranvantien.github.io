@@ -1,0 +1,7 @@
+- [[Cơ chế bệnh sinh - Loãng xương nguyên phát]] 
+- [[Phân loại - Loãng xương nguyên phát]] (loãng xương sau mãn kinh)
+- [[Loãng xương nguyên phát typ 2]] (loãng xương tuổi già)
+- [[Yếu tố nguy cơ - Loãng xương]]  ^6e580d
+- [[Bảng đánh giá nguy cơ loãng xương theo Hiệp hội Loãng xương Quốc tế IOF]] (Internation Osteoporosis Foudation).
+- [[Phương pháp đánh giá nguy cơ loãng xương sau mãn kinh dựa vào chỉ số OSTA]]
+- [[Mô hình tiên lượng nguy cơ loãng xương FRAX]] (Fracture Risk Assessment Tool)

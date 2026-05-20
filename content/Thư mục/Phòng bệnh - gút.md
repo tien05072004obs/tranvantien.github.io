@@ -1,0 +1,3 @@
+- Chế độ ăn uống thích hợp, tránh ăn quá nhiều đạm.
+- Tránh thức uống có cồn.
+- Phòng cơn gút cấp bằng colchicin trong các trường hợp có yếu tố khởi phát cơn (sang chấn, stress, phẫu thuật, nhiễm khuẩn...).

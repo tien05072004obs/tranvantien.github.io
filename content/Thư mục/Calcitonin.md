@@ -1,0 +1,3 @@
+- Là thuốc chống loãng xương duy nhất có tác dụng giảm đau.
+- Chỉ định: mới gẫy xương, loãng xương nhẹ.
+- Dạng thuốc: Miacalcic 50 UI tiêm bắp ngày 01 lọ hoặc Miacalcic xịt mũi (ngày 01 lần - 200 UI/lần).

@@ -1,0 +1,6 @@
+- Chẩn đoán và điều trị bệnh sớm và chính xác.
+- Điều trị nguyên nhân gút thứ phát.
+- Chống viêm khớp khi có cơn gút cấp.
+- Điều trị các tổn thương ở giai đoạn mạn tính.
+- Theo dõi và xử lý kịp thời tác dụng phụ của thuốc.
+- Phòng cơn gút cấp tái phát.

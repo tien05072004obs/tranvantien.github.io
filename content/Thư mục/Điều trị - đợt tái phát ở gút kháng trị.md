@@ -1,0 +1,7 @@
+- Liều trung bình glucocorticoid toàn thân hay tiêm nội khớp glucocorticoid.
+- Thuốc kháng TNF-alpha.
+- Thuốc ức chế IL-1: annakira, canakinumab, Rilonacef.
+	- Anakinra (IL-1Ra): 100 mg/ngày TDD x 3 ngày. Hiệu quả sau 24-48h.
+	- Canakinumab (Ac anti-IL-1β): 150 mg/ngày.
+	- Canakinumab trong dự phòng gút tái phát: có thể đến 165 tuần (> 3 năm).
+	- Rilonacept (IL-1Trap), trong dự phòng gút tái phát 80- 160 mg/tuần.

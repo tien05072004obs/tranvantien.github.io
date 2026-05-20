@@ -1,0 +1,1 @@
+Loãng xương là một bệnh lý của xương, được đặc trưng bởi sự giảm khối lượng xương kèm theo hư biến cấu trúc của xương, dẫn đến tăng tính dễ gẫy của xương, tức là có nguy cơ gẫy xương. Do vậy, cần đo mật độ xương để đánh giá nguy cơ gẫy xương.

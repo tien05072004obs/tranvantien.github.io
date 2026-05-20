@@ -1,0 +1,2 @@
+
+ Giả viêm khớp dạng thấp; Giả viêm cột sống dính khớp; Giả viêm khớp nhiễm khuẩn; Viêm khớp hủy hoại; Giả lao khớp; Giả thoái hóa khớp; Sỏi thận đơn thuần; Hạt tophi đơn thuần; U sụn màng hoạt dịch khớp; Viêm bao thanh dịch khớp (viêm túi thanh mạc khuỷu tay); Viêm gân bám tận (viêm gân Achille); Đứt gân; Đau cơ đơn thuần; Hội chứng đường hầm cổ tay.

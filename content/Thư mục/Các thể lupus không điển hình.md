@@ -1,0 +1,12 @@
+
+- **Thể mạn tính**: ít tổn thương nội tạng, diễn biến chậm. Biểu hiện ngoài da nhẹ, tiên lượng tốt.
+- **Hội chứng kháng phospholipid (antiphospholipid Syndrome):**
+	- Đó là sự kết hợp các hội chứng: huyết khối động - tĩnh mạch, sảy thai liên tiếp, giảm tiểu cầu miễn dịch, thay đổi về các kháng thể trực tiếp chống lại các thành phần phospholipid tế bào. 
+	- Hội chứng này có thể là 1 phần trong những biểu hiện của LBH, nhưng cũng có thể là 1 dạng chính (không có các biểu hiện lâm sàng khác) của LBH. 
+	- Tần suất mắc hội chứng kháng phospholipid vào khoảng 30% ở những bệnh nhân lupus.
+- **Lupus do thuốc:**
+	- Thường do các thuốc: hydralazin, procainamid, D-penicillamin, quinidin, rimifon, bloquants (Sectral), methyldopa, largactil, sulfasalazin, tegretol, interferon, kháng giáp trạng tổng hợp… 
+	- Tỷ lệ nữ mắc bệnh ít hơn. 
+	- Biểu hiện lâm sàng thường là lupus da hay khớp phối hợp với các dấu hiệu toàn thân. Hay gặp những biểu hiện ở nhu mô phổi và có tràn dịch màng phổi hay tràn dịch màng ngoài tim. 
+	- Hiếm khi có tổn thương thận hay các tổn thương thần kinh trung ương. 
+	- Khi ngừng điều trị các thuốc gây bệnh, các dấu hiệu lâm sàng hết đi trong vài ngày hoặc vài tháng. Đôi khi phải dùng thêm corticoid.

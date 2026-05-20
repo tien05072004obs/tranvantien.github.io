@@ -1,0 +1,1 @@
+Cần chẩn đoán phân biệt với các bệnh có tổn thương các khớp nhỏ nhỡ, và tuỳ theo triệu chứng nào nổi bật thì phải chẩn đoán phân biệt với các bệnh thường có tổn thương đó như: thấp khớp cấp, viêm khớp dạng thấp, các bệnh tạo keo khác (xơ cứng vì toàn thể, viêm da và cơ), xuất huyết giảm tiểu cầu, các bệnh có tổn thương thận, màng tim, màng phổi do các nguyên nhân khác.
