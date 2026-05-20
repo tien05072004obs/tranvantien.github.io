@@ -9,3 +9,10 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+# Chặn ảnh local
+content/LocalImages/*
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
