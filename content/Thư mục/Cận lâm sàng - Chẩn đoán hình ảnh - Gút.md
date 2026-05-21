@@ -1,5 +1,4 @@
 Xem thêm bài [[Cận lâm sàng - Các phương pháp mới trong chẩn đoán gút]]
-Dưới đây là phần bổ sung về **X-quang khớp** trong bệnh Gút để bạn ghép vào bản ghi chú Cận lâm sàng ở trên:
 # 1. Giai đoạn Gút cấp
 - Hình ảnh X-quang khớp nói chung **hoàn toàn bình thường**.
 # 2. Giai đoạn Gút mạn tính

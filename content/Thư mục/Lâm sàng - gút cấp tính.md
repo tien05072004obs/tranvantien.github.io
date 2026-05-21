@@ -26,8 +26,8 @@ Cơn đau thường xuất hiện tự phát hoặc sau các "dấu ấn" kích 
 > [!abstract] Điểm mấu chốt 
 > Cơn gút không điển hình khá thường gặp trên thực tế. Do vị trí tổn thương và tính chất không rầm rộ như cơn điển hình, bác sĩ cần đặc biệt lưu ý để đặt ra vấn đề chẩn đoán phân biệt.
 ## Các thể lâm sàng & Chẩn đoán phân biệt
-- **1. Thể tại chỗ chiếm ưu thế:** Rất dễ nhầm với [[Viêm khớp nhiễm khuẩn]]_.
-- **2. Thể tràn dịch chiếm ưu thế:** Thường gặp ở khớp gối, diễn biến có tính chất bán cấp → Rất dễ nhầm với [[Lao khớp]]_.
+- **1. Thể tại chỗ chiếm ưu thế:** Rất dễ nhầm với [[Viêm khớp nhiễm khuẩn]].
+- **2. Thể tràn dịch chiếm ưu thế:** Thường gặp ở khớp gối, diễn biến có tính chất bán cấp → Rất dễ nhầm với [[Lao khớp]].
 - **3. Thể toàn thân là chính:** Triệu chứng nổi bật là cơ thể suy nhược, trong khi hiện tượng viêm tại chỗ lại không đáng kể.
 - **4. Thể viêm nhiều khớp cấp:** Khởi phát đột ngột, viêm cùng lúc 3-4 khớp (thường là các khớp ở chi dưới). Thể này thường báo hiệu bệnh đang bước vào giai đoạn tiến triển.
 - **5. Thể cạnh khớp cấp tính:** Có thể xuất hiện đơn độc hoặc đi kèm với cơn gút có triệu chứng khớp điển hình.

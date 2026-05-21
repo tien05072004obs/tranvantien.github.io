@@ -1,4 +1,5 @@
-> [!abstract] Đặc điểm cốt lõi Thời gian tiến triển thành gút mạn tính thường mất từ vài năm đến vài chục năm nếu bệnh nhân không được điều trị đúng cách. Bản chất của giai đoạn này là biểu hiện của sự **tích luỹ tinh thể urat ở các mô**.
+> [!abstract] Đặc điểm cốt lõi 
+> Thời gian tiến triển thành gút mạn tính thường mất từ vài năm đến vài chục năm nếu bệnh nhân không được điều trị đúng cách. Bản chất của giai đoạn này là biểu hiện của sự **tích luỹ tinh thể urat ở các mô**.
 # 1. Tiến triển cơn đau
 - **Tần suất:** Có thể biểu hiện dưới dạng cơn thưa (vài tháng, thậm chí vài năm mới có 1 cơn) hoặc cơn liên tiếp (cơn càng mau thì mức độ càng trầm trọng).
 - **Sự thay đổi:** Bệnh sẽ dần _mất đi tính chất tiến triển thành từng đợt_ rõ rệt như giai đoạn gút cấp.

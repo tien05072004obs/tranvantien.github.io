@@ -1,12 +1,17 @@
-# Chẩn đoán phân biệt gút - viêm khớp nhiễm khuẩn
-Do tổn thương một khớp, bệnh nhân có thể sốt, đôi khi kèm rét run, dịch khớp có thể có bạch cầu đa nhân trung tính thoái hoá nên có thể nhầm. Song nếu tìm thấy tinh thể urat trong bạch cầu đa nhân thì rất có giá trị chẩn đoán gút. Nói chung nên soi cấy dịch khớp nhằm phát hiện một viêm khớp nhiễm khuẩn có thể kết hợp với gút.
-# Chẩn đoán phân biệt gút - viêm khớp dạng thấp
-Thể gút mạn tính có biểu hiện đa khớp: có các tổn thương tại các khớp nhỏ bàn ngón tay có thể nhầm với viêm khớp dạng thấp.
+# 1. Phân biệt với Viêm khớp nhiễm khuẩn (Cấp tính)
 
-**Chẩn đoán phân biệt dựa vào:**
-- Giới, tuổi.
-- Tính chất các đợt viêm khớp cấp tính giai đoạn đầu.
-- Thường có các hạt tôphi ở ở vành tai, ở bàn tay hoặc các vị trí khác.
-- AU máu, hình ảnh X-quang...
-# Chẩn đoán phân biệt gút - một số bệnh khớp khác
-Bệnh cảnh ngón chi hình khúc dồi trong bệnh lý cột sống, đặc biệt trong viêm khớp vẩy nến, có thể nhầm với cơn gút cấp.
+Bệnh cảnh rất dễ nhầm lẫn vì bệnh nhân cũng sưng đau một khớp dữ dội, có sốt và rét run. Dịch khớp có nhiều bạch cầu đa nhân trung tính thoái hóa.
+
+- **Chìa khóa phân biệt:** Tìm thấy **tinh thể urat** nằm trong bạch cầu đa nhân.
+
+> [!warning] 🛑 Clinical Pearl 
+> Bệnh Gút và Viêm khớp nhiễm khuẩn **có thể kết hợp đồng thời** trên cùng một bệnh nhân. Do đó, luôn luôn phải soi cấy dịch khớp để không bỏ sót tình trạng nhiễm khuẩn.
+
+# 2. Phân biệt với Viêm khớp dạng thấp (Mạn tính)
+Thể Gút mạn tính biểu hiện viêm đa khớp ở các khớp nhỏ bàn ngón tay rất dễ nhầm với Viêm khớp dạng thấp (VKDT).
+- **Chìa khóa phân biệt dựa vào:**
+    - **Dịch tễ:** Gút thường gặp ở nam trung niên; VKDT thường gặp ở nữ trung niên.
+    - **Tiền sử:** Gút có tính chất các đợt viêm cấp tính diễn biến rầm rộ rồi tự thuyên giảm ở giai đoạn đầu.
+    - **Lâm sàng & Cận lâm sàng:** Gút có **hạt tophi** (ở vành tai, bàn tay...), xét nghiệm có tăng Acid Uric máu và X-quang có hình khuyết xương dạng móc câu đặc trưng.
+# 3. Phân biệt với Viêm khớp vảy nến / Bệnh lý cột sống
+- **Chìa khóa phân biệt:** Bệnh cảnh ngón tay/ngón chân sưng to toàn bộ **(hình khúc dồi)** trong bệnh lý cột sống (đặc biệt là viêm khớp vảy nến) rất dễ bị nhầm lẫn với cơn Gút cấp.

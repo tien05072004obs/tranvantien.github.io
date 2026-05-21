@@ -7,9 +7,6 @@ tags:
 
 
 ---
-> [!abstract]
-> Loãng xương (với hậu quả là gẫy xương) là một bệnh phổ biến nhất hiện nay ở người lớn tuổi, chỉ đứng sau bệnh tim mạch. Có 1/3 số phụ nữ và 1/8 số nam giới trên 50 tuổi có nguy cơ loãng xương. Bệnh gây nhiều hậu quả, ảnh hưởng tới chất lượng cuộc sống và là nguyên nhân gia tăng tỷ lệ tử vong. Khi chưa có biến chứng, bệnh hầu như không có biểu hiện lâm sàng. Chẩn đoán loãng xương dựa vào số đo mật độ xương, theo tiêu chuẩn do Tổ chức Y tế thế giới WHO thống nhất năm 1993 và sửa đổi năm 2001. Tuy nhiên cần chẩn đoán phân biệt các bệnh có thể xảy ra ở một người cao tuổi. Điều trị loãng xương bao gồm chế độ vận động, sinh hoạt hợp lý, chế độ ăn uống, bổ xung calci-vitamin D, loại trừ các yếu tố nguy cơ có thể can thiệp được và kết hợp sử dụng các thuốc chống loãng xương. Phòng tránh ngã ở các đối tượng này là một trong các biện pháp phòng tránh biến chứng gẫy xương.
-
 # Đại cương 
 - **Định nghĩa loãng xương** 
 	- [[Định nghĩa loãng xương của WHO - 1993]]

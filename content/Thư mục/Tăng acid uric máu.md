@@ -15,5 +15,4 @@ Khi nồng độ AU vượt quá giới hạn tối đa của độ hoà tan c�
 - Không tìm thấy bất thường cụ thể nào, nhưng tình trạng tăng AU máu sẽ bị làm nặng thêm bởi **nguồn thức ăn** (chế độ ăn nhiều purin).
 - Đây chính là đặc điểm của **[[Gút nguyên phát]]** - thể bệnh chiếm đa số trên lâm sàng.
 
-
-![[Pasted image 20260512145739.png]]
+![image.png](https://cdn.jsdelivr.net/gh/tien05072004obs/obsidian-images@main/img/20260521192352088.png)

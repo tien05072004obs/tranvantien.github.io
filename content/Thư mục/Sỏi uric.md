@@ -1,5 +1,6 @@
-
-- Thường có biểu hiện bằng cơn đau quặn thận, hoặc chỉ đái máu 
-- Các đợt nhiễm trùng tiết niệu hiếm gặp 
-- Có thể biểu hiện bằng biến chứng tắc nghẽn (vô niệu do sỏi)
-- Sỏi không cản quang → phải chụp UIV và siêu âm, thường thấy 2 bên (giai đoạn muộn có thể cản quang do lắng đọng calsi)
+> [!warning] Đặc điểm Cận lâm sàng 
+> Đặc trưng lớn nhất của sỏi Uric là **sỏi không cản quang**. Không thể nhìn thấy trên X-quang bụng không chuẩn bị mà phải dựa vào Siêu âm hoặc chụp UIV. Sỏi chỉ cản quang ở giai đoạn muộn khi đã có hiện tượng lắng đọng calci. Tổn thương thường xuất hiện ở cả 2 bên thận.
+## Biểu hiện Lâm sàng
+- **Triệu chứng chính:** Cơn đau quặn thận điển hình hoặc chỉ biểu hiện đái máu đơn thuần.
+- **Đặc tính nhiễm trùng:** Rất hiếm khi gây ra các đợt nhiễm trùng tiết niệu.
+- **Biến chứng:** Sỏi có thể gây tắc nghẽn đường tiểu, dẫn đến tình trạng cấp cứu là **vô niệu**.

@@ -1,44 +1,66 @@
 [[Hướng dẫn điều trị đợt gút cấp theo ACR 2012]] 
 [[Khuyến cáo EULAR 2016 quản lý đợt đau cấp do gút]]
 # Cochicin: viên nén loại 1mg 
-- **Liều**: 1 mg/ngày, uống vào buổi tối, duy trì trong 15 ngày để tránh tái phát
-- Tác dụng rất nhanh, giảm đau nhanh trong vòng 48h 
-- **Tác dụng phụ**: 
-	- Hay gặp nhất: nôn, ỉa chảy, đau bụng → dùng thêm thuốc giảm nhu động
-	- Có thể gặp hạ bạch cầu do cochicin 
+> [!abstract] Nguyên tắc cốt lõi 
+> Colchicin có tác dụng chống viêm và giảm đau rất nhanh (thường thuyên giảm rõ rệt trong vòng 48 giờ), nhưng đặc biệt lưu ý thuốc **hoàn toàn không làm thay đổi nồng độ Acid Uric máu**.
+## 1. Thời điểm "Vàng"
+- Thuốc phát huy hiệu quả tốt nhất khi được sử dụng sớm, nên dùng **trong vòng 36 giờ đầu** kể từ lúc khởi phát triệu chứng.
+## 2. Liều dùng & Cách dùng
+- **Dạng bào chế:** Viên nén 1 mg.
+- **Phác đồ kinh điển:** Uống 1 mg/ngày vào buổi tối.
+- **Thời gian duy trì:** Cần duy trì liên tục trong **15 ngày** để phòng ngừa cơn gút cấp tái phát. _(Lưu ý thêm: Theo EULAR 2016, có thể dùng liều 1 mg, sau 1 giờ uống tiếp 0,5 mg để cắt cơn cấp, và bắt buộc phải chỉnh liều nếu bệnh nhân có suy thận,)._
+## 3. Tác dụng phụ & Xử trí
+- **Tiêu hóa (Rất hay gặp):** Ỉa chảy, buồn nôn, đau bụng. $\rightarrow$ _Xử trí:_ Cần dùng kết hợp với các thuốc làm giảm nhu động ruột.
+- **Huyết học:** Có thể gặp tình trạng hạ bạch cầu.
+- **Chống chỉ định:** Cần tránh dùng Colchicin nếu bệnh nhân bị suy thận nặng, hoặc đang dùng các thuốc ức chế CYP3A4 / P-glycoprotein.
+## 4. Giá trị Chẩn đoán (Test Colchicin)
+> [!success] Clinical Pearl 
+> Ngoài vai trò điều trị, việc bệnh nhân đáp ứng cực kỳ tốt và nhanh chóng với Colchicin (giảm đau, giảm viêm rõ rệt trong 48h) còn được coi là một **"Test chẩn đoán"** quan trọng giúp khẳng định bệnh Gút trên lâm sàng.
+
 # Các thuốc chống viêm không steroid 
-Là thuốc hàng đầu để điều trị gút cấp ở hầu hết các bệnh nhân. Hiệu quả tốt nhưng tác dụng phụ nhiều → dùng hạn chế → dùng 5-8 ngày sau đó giảm liều 
+> [!info] Vai trò cốt lõi 
+> [[NSAIDs]] (Thuốc chống viêm không steroid) là lựa chọn **hàng đầu** để cắt cơn gút cấp ở hầu hết bệnh nhân. Thuốc có hiệu quả giảm viêm, giảm đau rất tốt nhưng bị hạn chế bởi nhiều tác dụng phụ.
+> 
+> - **Nguyên tắc:** Dùng ngắn ngày (5 - 8 ngày) sau đó giảm liều.
 
-- **Chống chỉ định tuyệt đối**:
-	- Bệnh lý chảy máu
-	- Bệnh nhân đang dùng thuốc chống đông
-	- Loét dạ dày tá tràng cũ hoặc đang tiến triển
-	- Mẫn cảm với thuốc nếu biết trước
-	- Suy gan vừa đến nặng
-	- Phụ nữ có thai và cho con bú
-- **Thận trọng khi dùng thuốc:** 
-	- Nhiễm khuẩn đang tiến triển
-	- Dị ứng với aspirin
-	- Polyp mũi, hen phế quản.
-- **Thuốc và liều sử dụng:** 
-	- Diclofenac (Voltaren): 100 - 150 mg/ngày, Etoricoxib (Arcoxia): 90-120mg/ngày trong 3 ngày sau đó chuyển sang đường uống 60mg/ngày.
-	- Meloxicam (Mobic): 15mg/ngày, tiêm bắp 1 ống/ngày trong 3-5 ngày sau đó chuyển sang đường uống: Mobic 7,5mg: 2 viên/ngày chia 2 lần (sau ăn).
-- **Tác dụng phụ:** 
-	- **Trên tiêu hóa**: buồn nôn, cảm giác chán ăn, đau thượng vị, ỉa chảy, táo bón, loét dạ dày, tá tràng, thủng đường tiêu hóa, tăng transaminase khi sử dụng lâu dài. 
-	- **Trên thận**: viêm thận kẽ cấp, suy thận cấp chức năng. 
-	- **Cơ quan tạo máu**: giảm bạch cầu, suy tủy, rối loạn đông máu (Aspirin). 
-	- **Thần kinh**: đau đầu, chóng mặt, ù tai. Da, niêm mạc: ban, gây ngứa, hội chứng Lyell.
+## 1. Các thuốc & Phác đồ tiêu biểu
+- **Diclofenac (Voltaren):** 100 - 150 mg/ngày.
+- **Etoricoxib (Arcoxia):** 90 - 120 mg/ngày trong 3 ngày đầu $\rightarrow$ sau đó giảm xuống uống 60 mg/ngày.
+- **Meloxicam (Mobic):**
+    - _Pha tiêm:_ 15 mg/ngày (tiêm bắp 1 ống/ngày) trong 3-5 ngày.
+    - _Pha uống:_ Chuyển sang Mobic 7,5 mg $\times$ 2 viên/ngày, chia 2 lần (uống sau ăn).
+## 2. Chống chỉ định & Thận trọng
+> [!warning] 🛑 Chống chỉ định TUYỆT ĐỐI
+> 
+> - Loét dạ dày - tá tràng (cũ hoặc đang tiến triển).
+> - Bệnh lý chảy máu hoặc đang dùng thuốc chống đông.
+> - Suy gan vừa đến nặng.
+> - Phụ nữ có thai và cho con bú.
+> - Mẫn cảm với thuốc.
+
+- **Thận trọng khi dùng:** Bệnh nhân đang có nhiễm khuẩn tiến triển, có tiền sử hen phế quản, polyp mũi hoặc dị ứng với Aspirin.
+## 3. Tác dụng phụ cần theo dõi
+- **Tiêu hóa (Hay gặp nhất):** Buồn nôn, chán ăn, đau thượng vị, loét/thủng dạ dày - tá tràng, rối loạn tiêu hóa. Dùng lâu dài có thể tăng men gan.
+- **Thận:** Viêm thận kẽ cấp, suy thận cấp chức năng.
+- **Huyết học:** Rối loạn đông máu (đặc biệt với Aspirin), giảm bạch cầu, suy tủy.
+- **Thần kinh:** Đau đầu, chóng mặt, ù tai.
+- **Da niêm mạc:** Nổi ban ngứa, nặng nhất là [[Hội chứng Lyell]]
 # Corticoid 
-Là thuốc có tác dụng chống viêm mạnh nhưng nhiều tác dụng phụ, làm acid uric, tăng acid uric máu, bệnh dễ tái phát và trở thành mạn tính.
+> [!warning] Clinical Pearl
+> Mặc dù Corticoid có tác dụng chống viêm cực kỳ mạnh, nhưng lại làm **giảm đào thải Acid Uric**, làm tăng Acid Uric máu, khiến bệnh rất dễ tái phát và nhanh chóng chuyển thành mạn tính. Do đó, đây KHÔNG phải là lựa chọn ưu tiên hàng đầu.
+## 1. Chỉ định & Chống chỉ định
+**Chỉ định (Thường là giải pháp thay thế):**
+- Viêm nhiều khớp (từ 2 khớp lớn hoặc 3 khớp nhỏ trở lên) không đáp ứng với NSAIDs và Colchicin.
+- Bệnh nhân có **chống chỉ định** với NSAIDs/Colchicin (như viêm loét dạ dày - tá tràng, bệnh thận).
+- Bệnh nhân đã bị phụ thuộc Corticoid.
 
-- **Chỉ định:**
-	- Bệnh nhân gút viêm nhiều khớp không đáp ứng với CVKS và colchicin.
-	- Chống chỉ định với 2 thuốc trên do loét dạ dày hoặc bệnh thận 
-	- Phụ thuộc corticoid.
-- **Chống chỉ định:** 
-	- Lao tiến triển 
-- **Thận trọng:** 
-	- Đái tháo đường, tăng huyết áp và theo dõi các tác dụng phụ.
-- **Liều toàn thân**: prednisolon 0,5 mg/kg/ngày, trong ngày đầu, sau đó giảm 5mg/ngày mỗi 1 -2 tuần.
-- **Tại chỗ**: diprospan, hydrocortison: 40 mg ở khớp lớn, 20 mg ở khớp nhỏ. 
-- **Tác dụng phụ**: tăng glucose huyết, tăng huyết áp, loãng xương
+**Chống chỉ định & Thận trọng:**
+- _Tuyệt đối:_ Lao đang tiến triển.
+- _Thận trọng:_ Đái tháo đường, Tăng huyết áp.
+
+## 2. Liều lượng & Cách dùng
+- **Đường toàn thân:** [[Prednisolon]] 0,5 mg/kg/ngày trong ngày đầu tiên. Sau đó phải giảm liều từ từ (giảm 5mg/ngày mỗi 1 - 2 tuần).
+- **Đường tại chỗ (Tiêm nội khớp):** Dùng Diprospan hoặc Hydrocortison (40 mg cho khớp lớn, 20 mg cho khớp nhỏ).
+## 3. Theo dõi & Đánh giá
+- **Đánh giá hiệu quả:** Dựa vào thang điểm đau VAS. Đáp ứng tốt khi điểm VAS **cải thiện ít nhất 20% sau 24 giờ**.
+- **Tác dụng phụ cần theo dõi:** Tăng đường huyết, tăng huyết áp, loãng xương.
