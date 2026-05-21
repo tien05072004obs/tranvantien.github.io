@@ -1,4 +1,4 @@
-Xem thêm bài [[Cận lâm sàng - Các phương pháp mới trong chẩn đoán gút]]
+Xem thêm bài [[Cận lâm sàng - các phương pháp mới trong chẩn đoán gút]]
 # 1. Giai đoạn Gút cấp
 - Hình ảnh X-quang khớp nói chung **hoàn toàn bình thường**.
 # 2. Giai đoạn Gút mạn tính

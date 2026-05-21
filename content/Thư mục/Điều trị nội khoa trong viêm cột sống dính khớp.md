@@ -67,6 +67,6 @@ Chỉ định cho cả thể khớp ngoại vi và cột sống, giúp cải thi
     - _Ngoại lệ (Bắt buộc dùng):_ Biến chứng [[Viêm mống mắt]] đỏi hỏi phải dùng Corticoid đường toàn thân kết hợp tiêm hậu nhãn cầu (do bác sĩ Mắt thực hiện).
 ## 2. Nhóm Bisphosphonat (Thuốc chống hủy xương)
 - **Cơ chế:** Trong VCSDK, cytokin viêm [[TNF-α]] gây ra tình trạng hủy xương. Do đó, Bisphosphonat được dùng để điều trị/dự phòng loãng xương ở nhóm bệnh nhân này. Đặc biệt, Pamidronat còn mang lại tác dụng chống viêm.
-- **Các phác đồ phổ biến:** Tương tự [[Điều trị thuốc - Loãng xương|điều trị loãng xương]] ở người lớn tuổi.
+- **Các phác đồ phổ biến:** Tương tự [[Điều trị thuốc - loãng xương|điều trị loãng xương]] ở người lớn tuổi.
     - [[Acid Zoledronic (Aclasta)]] 5mg: Truyền tĩnh mạch 1 lần/năm.
     - [[Alendronate (Fosamax)]] 70mg (hoặc Fosamax Plus): Uống 1 viên/tuần.
