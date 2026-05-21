@@ -1,6 +1,6 @@
 Mục đích tránh các cơn gút cấp, tránh tổn thương các tạng. Thường phải đạt được nồng độ AU máu dưới 360 µmol/l(6 mg/dl).
 # Chế độ ăn uống và kiềm hoá nước tiểu 
-- Xem thêm bài [[Phòng bệnh - Cơn gút cấp tái phát]]
+- Xem thêm bài [[Phòng bệnh - cơn gút cấp tái phát]]
 # Thuốc chống viêm 
 - Khi có cơn gút cấp → [[Điều trị - cơn gút cấp hoặc đợt cấp của cơn gút mạn]]
 - Điều trị tổn thương xương khớp mạn tính do gút 

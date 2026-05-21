@@ -29,9 +29,9 @@ tags:
 	- [[Chẩn đoán mức độ - Gút mạn tính có hạt tophi theo ACR 2012]]
 # 5. Điều trị
 - **Nguyên tắc điều trị** 
-	- [[Nguyên tắc điều trị - Gút]]
+	- [[Nguyên tắc điều trị - gút]]
 - **Điều trị cụ thể**
-	- [[Điều trị - cơn gút cấp hoặc đợt cấp của cơn gút mạn]] → [[Phòng bệnh - Cơn gút cấp tái phát]]
+	- [[Điều trị - cơn gút cấp hoặc đợt cấp của cơn gút mạn]] → [[Phòng bệnh - cơn gút cấp tái phát]]
 	- [[Điều trị - gút ở giai đoạn mạn tính]]
 	- [[Điều trị - đợt tái phát ở gút kháng trị]]
 # 6. Dự phòng
