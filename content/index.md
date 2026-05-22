@@ -1,28 +1,6 @@
 ---
 title: Y khoa
 ---
-# CƠ XƯƠNG KHỚP
-- **01. LEC**
-	- [[Gút]]
-	- [[Loãng xương]]
-	- [[Lupus ban đỏ hệ thống]]
-	- [[Viêm cột sống dính khớp]]
-	- [[Viêm khớp dạng thấp]]
-- **02. CBA**
-	- [[CBA Lupus ban đỏ hệt thống]]
-- **03. FS**
-	- [[FS Gút]]
-	- [[FS Loãng xương]]
-	- [[FS Viêm cột sống dính khớp]]
-	- [[FS Viêm khớp dạng thấp]]
-- **04. OMP**
-	- [[OMP Viêm da cơ]]
-	- [[OMP Viêm khớp nhiễm khuẩn]]
-	- [[OMP Xơ cứng bì]]
-- **05. BỆNH ÁN**
-	- [[Bệnh án Lupus ban đỏ hệ thống]]
-
-![image.png](https://cdn.jsdelivr.net/gh/tien05072004obs/obsidian-images@main/img/20260520235136102.png)
-
-
+![[Tiêu hoá]]
+![image.png](https://cdn.jsdelivr.net/gh/tien05072004obs/obsidian-images@main/img/20260522201710295.png)
 

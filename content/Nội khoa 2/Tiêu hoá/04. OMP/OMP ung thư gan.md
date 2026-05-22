@@ -2,8 +2,8 @@
 tags:
   - noikhoa2
   - tieuhoa
-  - lec
+  - omp
 ---
-
+[[Ung thư gan]]
 
 ---

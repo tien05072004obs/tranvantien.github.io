@@ -2,8 +2,8 @@
 tags:
   - noikhoa2
   - tieuhoa
-  - lec
+  - fs
 ---
-
+[[Áp xe gan]]
 
 ---

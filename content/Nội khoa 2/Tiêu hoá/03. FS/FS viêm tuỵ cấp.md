@@ -2,8 +2,8 @@
 tags:
   - noikhoa2
   - tieuhoa
-  - lec
+  - fs
 ---
-
+[[Viêm tuỵ cấp]]
 
 ---

@@ -2,8 +2,8 @@
 tags:
   - noikhoa2
   - tieuhoa
-  - lec
+  - fs
 ---
-
+[[Xuất huyết tiêu hoá]]
 
 ---
