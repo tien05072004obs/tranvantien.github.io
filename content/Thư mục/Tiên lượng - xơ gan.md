@@ -1,0 +1,3 @@
+- [[Phân loại Child - Pugh - Turcotte]]
+- [[Điểm MELD]]
+- [[Đợt cấp suy gan mạn (ACLF)]]

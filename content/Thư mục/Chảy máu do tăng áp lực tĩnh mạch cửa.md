@@ -1,0 +1,4 @@
+
+- **Vị trí tổn thương:** Thường gặp nhất là do giãn vỡ các búi **[[Tĩnh mạch thực quản]]** và **[[Tĩnh mạch phình vị]]**. Một số ít trường hợp có thể vỡ ở thân, hang vị dạ dày hoặc tá tràng.
+- **Tiên lượng:** Đây là một biến chứng nặng, mang tính cấp cứu và có tỷ lệ tử vong rất cao (khoảng 20%),. Tỷ lệ xuất huyết và tử vong phụ thuộc chặt chẽ vào mức độ xơ gan của bệnh nhân. Nguy cơ tái phát xuất huyết cũng rất cao, đặc biệt là trong 5 ngày đầu cho đến 6 tuần sau đợt chảy máu.
+- _Cơ chế cốt lõi:_ Khi gan bị xơ hóa, dòng máu từ tĩnh mạch cửa đổ về gan bị cản trở khiến áp lực tăng vọt. Máu buộc phải tìm các "đường vòng" (vòng tuần hoàn bàng hệ cửa - chủ) để thoát về tim, trong đó vòng nối dạ dày - thực quản phải chịu áp lực rất lớn. Các tĩnh mạch ở đây có thành mỏng và nằm sát lớp niêm mạc, khi bị căng phồng quá mức sẽ tạo thành các búi giãn ngoằn ngoèo và rất dễ vỡ bục, dẫn đến tình trạng nôn ra máu ồ ạt.

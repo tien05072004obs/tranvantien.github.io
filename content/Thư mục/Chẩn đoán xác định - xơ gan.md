@@ -1,0 +1,2 @@
+- [[Chẩn đoán xác định - xơ gan còn bù]] 
+- [[Chẩn đoán xác định - xơ gan mất bù]]

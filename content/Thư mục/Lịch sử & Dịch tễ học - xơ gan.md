@@ -1,0 +1,4 @@
+- Lịch sử: Được Hypocrates mô tả từ thế kỷ 5 TCN. Thuật ngữ "cirrhosis" (nguồn gốc Hy Lạp nghĩa là gan màu vàng cam) được nhà lâm sàng Pháp R. Laennec đề xuất năm 1819.
+- Dịch tễ học:
+    - Xu hướng gia tăng trên toàn cầu và tại Việt Nam do tỷ lệ nhiễm virus **[[Viêm gan B]]**, **[[Viêm gan C]]** và tình trạng lạm dụng **rượu bia**.
+    - Gánh nặng y tế: Ước tính có khoảng **800.000 trường hợp tử vong/năm** trên thế giới do xơ gan.

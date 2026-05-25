@@ -1,0 +1,3 @@
+- **[[Xơ gan]]** là quá trình xơ hóa lan tỏa phối hợp với sự hình thành các **khối tăng sinh tân tạo** (nodules), làm đảo lộn toàn bộ cấu trúc giải phẫu của gan.
+- **Hậu quả**: Gan không đảm bảo được các chức năng sinh lý cơ bản.
+- **Bản chất**: Là kết quả cuối cùng của quá trình tăng sinh xơ xuất hiện sau các tổn thương gan **[[Mạn tính]]**.

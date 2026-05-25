@@ -1,0 +1,4 @@
+- [[Nội soi - xơ gan]] 
+- [[Thăm dò đánh giá xơ hóa gan]]
+- [[Sinh thiết gan - xơ gan]] 
+- [[Soi ổ bụng - xơ gan]] 

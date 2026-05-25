@@ -1,0 +1,1 @@
+- Hiện nay **ít dùng** trên lâm sàng do sự phát triển của các phương tiện chẩn đoán hình ảnh không xâm nhập.

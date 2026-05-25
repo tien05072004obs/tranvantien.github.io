@@ -1,0 +1,6 @@
+- [[Chế độ sinh hoạt nên kiêng trong loét dạ dày tá tràng]] 
+- [[Thuốc điều trị loét]]
+	- [[Các thuốc trung hoà acid dịch vị (antacid)]]
+	- [[Thuốc ức chế H2]]
+	- [[Thuốc ức chế bơm proton]] 
+	- [[Sucralfat]]

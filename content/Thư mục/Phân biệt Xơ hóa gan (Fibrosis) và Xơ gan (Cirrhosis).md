@@ -1,0 +1,5 @@
+- Xơ hóa gan **không đồng nghĩa** với [[Xơ gan]] thực sự. Tình trạng xơ hóa có thể xuất hiện tại các vị trí khu trú mà không tiến triển thành xơ gan:
+    - Xơ hóa vùng ngoại vi (**vùng 3** của tiểu thùy gan): Thường gặp trong **[[Suy tim]]**.
+    - Xơ hóa vùng trung tâm tiểu thùy (**vùng 1**): Gặp trong tắc nghẽn đường mật và xơ gan bẩm sinh.
+    - Xơ hóa xen kẽ: Gặp trong bệnh gan u hạt.
+    - Phản ứng mô xơ tại khoảng cửa: Do trứng sán kích thích trong bệnh sán máng, thường không tiến triển thành xơ gan.

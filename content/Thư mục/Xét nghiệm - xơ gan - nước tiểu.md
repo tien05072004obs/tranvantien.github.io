@@ -1,0 +1,4 @@
+- **Sắc tố mật & Muối mật:** Có **[[Urobilinogen]]** vượt mức bình thường; **[[Bilirubin]]** niệu cũng sẽ xuất hiện dương tính nếu bệnh nhân có biểu hiện [[Vàng da - xơ gan]] trên lâm sàng.
+
+- **Điện giải niệu:** Sự bài tiết **[[Natri]] niệu giảm** rõ rệt khi bệnh nhân có xuất hiện **[[Cổ trướng - xơ gan]]**. Trong trường hợp nghiêm trọng, lượng Natri bài tiết có thể tụt xuống mức **< 5 mmol/ngày**.
+    - _Cơ chế cốt lõi:_ Sự xuất hiện của cổ trướng làm giảm thể tích tuần hoàn hiệu dụng, kích hoạt hệ thống Renin-Angiotensin-Aldosterone (RAAS). Tình trạng **cường Aldosterone thứ phát** ép ống thận phải tăng cường tái hấp thu giữ lại Natri và nước để bù trừ, dẫn đến lượng Natri thải ra qua nước tiểu giảm sút nghiêm trọng.

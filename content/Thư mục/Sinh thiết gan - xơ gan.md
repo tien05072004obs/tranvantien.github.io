@@ -1,0 +1,4 @@
+- Mặc dù là **tiêu chuẩn vàng**, nhưng hiện nay chủ yếu được chỉ định trong các trường hợp:
+    - Xơ gan ở giai đoạn rất sớm cần chẩn đoán xác định.
+    - Phân biệt các khối nốt tăng sinh tân tạo trong xơ gan với tổn thương **[[Ung thư biểu mô tế bào gan|Ung thư gan]]**.
+    - Tìm nguyên nhân gây xơ gan (như các bệnh lý ứ đọng chuyển hóa).

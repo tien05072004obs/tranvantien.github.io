@@ -1,0 +1,6 @@
+- [[Điều trị biến chứng - xơ gan - cổ chướng]] 
+- [[Điều trị biến chứng - xơ gan - giãn vỡ tĩnh mạch thực quản]] 
+- [[Điều trị biến chứng - xơ gan - nhiễm trùng dịch cổ trướng]] 
+- [[Điều trị biến chứng - xơ gan - hội chứng gan thận]] 
+- [[Điều trị biến chứng - xơ gan - giảm natri máu]]
+- [[Điều trị biến chứng - xơ gan - bệnh lý não gan]] 

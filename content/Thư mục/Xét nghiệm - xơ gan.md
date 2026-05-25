@@ -1,0 +1,4 @@
+- [[Xét nghiệm - xơ gan - huyết học]] 
+- [[Xét nghiệm - xơ gan - hoá sinh]] 
+- [[Xét nghiệm - xơ gan - nước tiểu]] 
+- [[Xét nghiệm - xơ gan - dịch cổ trướng]] 
