@@ -8,5 +8,29 @@ Ngay khi bệnh nhân vào viện cần đánh giá tình trạng huyết độn
 # Hồi sức 
 *(Tương tự XHTH do TALTMC khác mỗi có thể dùng muối*
 
-![[Drawing 2026-05-30 17.14.33.excalidraw|1000]]
+![image.png](https://cdn.jsdelivr.net/gh/tien05072004obs/obsidian-images@main/img/20260530180327613.png)
 
+**Chỉ định truyền máu:** 
+- Hb < 70-80 g/l
+- Hb < 100 g/l ở bệnh nhân tụt huyết áp tư thế (do Hb tiếp tục tụt sau khi truyền muối đẳng trương)
+- Bệnh lý tim mạch có triệu chứng đau thắt ngực hoặc trên 60 tuổi → duy trì Hb trên 100 g/l 
+
+**Nếu XHTH trên không do tăng áp lực tĩnh mạch cửa → PPI tĩnh mạch liều cao** 
+
+![[XHTH do loét dạ dày tá tràng 1]]
+
+# Điều trị cầm máu bằng nội soi ống mềm 
+
+**Cầm máu sớm trong 24h đầu:** 
+- Giúp chẩn đoán xác định và điều trị nội soi cầm máu nếu có chỉ định 
+- Giảm xuất huyết tái phát, giảm tỷ lệ phẫu thuật 
+- Bệnh nhân nặng + không nội soi được 
+	- Chuyển tuyến 
+	- Không chuyển tuyến + không hồi sức được → hội chẩn bác sĩ ngoại khoa 
+
+**Mục đích cầm máu qua nội soi:** 
+- Cầm máu nhanh 
+- Giảm nhu cầu truyền máu 
+- Ngăn ngừa biến chứng sốc mất máu 
+
+Các phương pháp 
