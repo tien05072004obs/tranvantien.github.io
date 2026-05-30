@@ -2,7 +2,7 @@ Dựa vào biểu hiện lâm sàng, [[Xơ gan]] được chia làm hai giai đo
 
 Xơ gan mất bù → có ít nhất một đặc điểm: 
 - [[Cổ trướng - xơ gan]]
-- [[Xuất huyết tiêu hoá]] 
+- [[Xuất huyết tiêu hoá do loét dạ dày tá tràng]] 
 - [[Bệnh não gan]] 
 - [[Vàng da - xơ gan]] 
 

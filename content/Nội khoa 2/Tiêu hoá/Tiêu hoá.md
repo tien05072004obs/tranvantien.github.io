@@ -5,7 +5,7 @@
 	- [[Ung thư gan]]
 	- [[Viêm tuỵ cấp]]
 	- [[Xơ gan]]
-	- [[Xuất huyết tiêu hoá]]
+	- [[Xuất huyết tiêu hoá do loét dạ dày tá tràng]]
 - **02. CBA**
 	- [[CBA loét dạ dày hành tá tràng]]
 	- [[CBA ung thư gan]]

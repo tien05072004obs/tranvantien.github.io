@@ -26,7 +26,10 @@ Hãy đọc đoạn văn bản tôi cung cấp ở cuối tin nhắn này và ch
 - Dùng Bullet points (`-`) để liệt kê.
     
 - **In đậm** các từ khóa, triệu chứng lâm sàng/cận lâm sàng quan trọng, hoặc các chỉ số.
-    
+
+- Kẻ bảng nếu cần thiết
 
 **Đoạn thông tin cần xử lý:**
-Các thuốc chống chỉ định hoặc lưu ý khi sử dụng cho bệnh nhân xơ gan cổ trướng
+Áp xe gan - tiên lượng áp xe gan do vi khuẩn   
+
+

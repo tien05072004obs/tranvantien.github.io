@@ -2,7 +2,7 @@
 ## 3.2.5. Nội soi tiêu hóa trên
 
 - **Mục đích cốt lõi:** Xác định và đánh giá mức độ **giãn tĩnh mạch thực quản** và **giãn tĩnh mạch dạ dày**.
-- _Cơ chế bệnh sinh:_ Trong xơ gan, sự xơ hóa làm tăng sức cản dòng máu, dẫn đến **[[Hội chứng tăng áp lực tĩnh mạch cửa]]**. Máu bị ứ trệ sẽ tìm đường thoát qua các vòng nối cửa-chủ, trong đó vòng nối dạ dày - thực quản phải chịu áp lực rất lớn, khiến các tĩnh mạch ở đây căng giãn ngoằn ngoèo và rất dễ vỡ gây **[[Xuất huyết tiêu hoá]]**.
+- _Cơ chế bệnh sinh:_ Trong xơ gan, sự xơ hóa làm tăng sức cản dòng máu, dẫn đến **[[Hội chứng tăng áp lực tĩnh mạch cửa]]**. Máu bị ứ trệ sẽ tìm đường thoát qua các vòng nối cửa-chủ, trong đó vòng nối dạ dày - thực quản phải chịu áp lực rất lớn, khiến các tĩnh mạch ở đây căng giãn ngoằn ngoèo và rất dễ vỡ gây **[[Xuất huyết tiêu hoá do loét dạ dày tá tràng]]**.
 
 ### Phân độ giãn tĩnh mạch thực quản (Theo Hội nội soi Nhật Bản)
 
