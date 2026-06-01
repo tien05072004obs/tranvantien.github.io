@@ -49,7 +49,7 @@ tags:
 	- [[Hội chứng gan phổi]] 
 	- [[Viêm phúc mạc nhiễm khuẩn tiên phát]] 
 	- [[Huyết khối tĩnh mạch cửa]] 
-	- [[Ung thư biểu mô tế bào gan]] 
+	- [[content/Thư mục/Ung thư biểu mô tế bào gan]] 
 # Điều trị 
 - [[Chế độ ăn uống sinh hoạt - xơ gan]] 
 - [[Điều trị nguyên nhân - xơ gan]] 

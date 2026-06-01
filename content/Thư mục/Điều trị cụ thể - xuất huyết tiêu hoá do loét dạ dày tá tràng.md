@@ -17,8 +17,6 @@ Ngay khi bệnh nhân vào viện cần đánh giá tình trạng huyết độn
 
 **Nếu XHTH trên không do tăng áp lực tĩnh mạch cửa → PPI tĩnh mạch liều cao** 
 
-![[XHTH do loét dạ dày tá tràng 1]]
-
 # Điều trị cầm máu bằng nội soi ống mềm 
 
 **Cầm máu sớm trong 24h đầu:** 
@@ -33,4 +31,48 @@ Ngay khi bệnh nhân vào viện cần đánh giá tình trạng huyết độn
 - Giảm nhu cầu truyền máu 
 - Ngăn ngừa biến chứng sốc mất máu 
 
-Các phương pháp 
+**Các phương pháp nội soi cầm máu:**
+- **Tiêm cầm máu**: adrenalin 1/10.000, cồn tuyệt đối, nước muối ưu trương → tiến hành tiêm 4 góc + đáy ổ loét 
+- **Dùng nhiệt**: đầu dò đơn cực, đa cực, argon plasma,...
+- **Cầm máu cơ học**: kẹp clip (mạch máu lớn)
+
+**Nên phối hợp: tiêm cầm máu + phương pháp cầm máu khác** 
+
+![image.png](https://cdn.jsdelivr.net/gh/tien05072004obs/obsidian-images@main/img/20260530192552531.png)
+
+**Theo dõi chảy máu lại hoặc tiếp tục chảy máu**: [[Tiêu chuẩn Baveno V]]
+- Nôn ra máu: sau khi đã nội soi cầm máu 
+- Dấu hiệu thiếu máu não: kích thích, vật vã
+- Mạch nhanh lên là dấu hiệu sớm, huyết áp tụt khi đã mất máu nhiều 
+- Trên nội soi: có dấu hiệu cho thấy nguy cơ chảy máu tái phát cao → Forrest Ia, Ib, IIa, IIb
+- Hb giảm > 20 g/l/ngày 
+- Nếu nghi ngờ chảy máu → sonde dạ dày → có máu đỏ tươi → rút sonde ngay 
+
+# Thuốc 
+
+**Điều trị bằng PPI nói chung:**
+![image.png](https://cdn.jsdelivr.net/gh/tien05072004obs/obsidian-images@main/img/20260530205352144.png)
+
+**Điều trị bằng rabeprazol:**
+- 40 mg TM chậm + 4 mg/h truyền liên tục trong 72h 
+- Sau đó chuyển sang đường uống liều 40 mg/ngày (tối thiểu 28 ngày)
+
+**Trường hợp không dùng đường TM:** 
+- Thuốc viên gấp 2-3 lần liều tiêu chuẩn 
+- Sau đó dùng tiếp liều tiêu chuẩn 
+
+**Một số thuốc khác → Hiện chưa chứng minh được hiệu quả đối với XHTH do loét dạ dày tá tràng:** 
+- Somatostatin.
+- Prostaglandin.
+- Acid tracenamic.
+- Vasoprepsin.
+- Ức chế thụ thể H2 (ranitidin, famotidin) → rất ít hiệu quả 
+
+# Điều trị ngoại khoa 
+
+Khi cầm máu nội soi và điều trị thuốc thất bại → Xem xét điều trị ngoại khoa hoặc nút mạch
+
+# Điều trị HP 
+
+Sau khi XHTH đã ổn định 
+

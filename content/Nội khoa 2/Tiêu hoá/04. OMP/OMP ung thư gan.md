@@ -4,6 +4,6 @@ tags:
   - tieuhoa
   - omp
 ---
-[[Ung thư gan]]
+[[content/Nội khoa 2/Tiêu hoá/01. LEC/Ung thư biểu mô tế bào gan]]
 
 ---

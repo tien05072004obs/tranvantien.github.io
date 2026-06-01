@@ -1,3 +1,0 @@
-- [[Điều trị - loét dạ dày tá tràng - do H.P]]
-- [[Điều trị - loét dạ dày tá tràng - do NSAID, AINS và dự phòng]]
-- [[Điều trị - loét dạ dày tá tràng - do stress]]

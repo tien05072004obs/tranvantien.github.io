@@ -1,7 +1,0 @@
-- [[Các thuốc trung hoà acid dịch vị (antacid)]]
-- [[Thuốc ức chế H2]] 
-- [[Thuốc ức chế bơm proton]] 
-- [[Sucralfat]]
-- [[Các Anticholinergic]]
-- [[Prostaglandin]]
-- [[Các thuốc kháng H.P]]

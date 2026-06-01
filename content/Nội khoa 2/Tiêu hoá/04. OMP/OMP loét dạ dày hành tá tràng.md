@@ -4,6 +4,6 @@ tags:
   - tieuhoa
   - omp
 ---
-[[Loét dạ dày hành tá tràng]]
+[[Loét dạ dày tá tràng]]
 
 ---

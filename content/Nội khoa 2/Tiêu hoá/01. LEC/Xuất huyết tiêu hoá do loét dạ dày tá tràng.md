@@ -4,7 +4,7 @@ tags:
   - tieuhoa
   - lec
 ---
-
+[[Sơ đồ xử trí XHTH do loét dạ dày tá tràng]] 
 
 ---
 # Đại cương 

@@ -14,6 +14,6 @@
 
 # 2. Chụp cắt lớp vi tính (CT Scan) & Cộng hưởng từ (MRI)
 
-- **CT Scan:** Vừa có giá trị chẩn đoán hình thái xơ gan, vừa giúp tầm soát và phát hiện **[[Ung thư biểu mô tế bào gan|Ung thư gan]]**.
+- **CT Scan:** Vừa có giá trị chẩn đoán hình thái xơ gan, vừa giúp tầm soát và phát hiện **[[content/Thư mục/Ung thư biểu mô tế bào gan|Ung thư gan]]**.
 - **Cộng hưởng từ (MRI):** Đôi khi được sử dụng chuyên sâu, đặc biệt có giá trị trong việc phân biệt các **khối tăng sinh (nốt tân tạo)** lành tính với các tổn thương ung thư gan ở giai đoạn sớm.
 
