@@ -2,7 +2,7 @@
 - **01. LEC**
 	- [[Áp xe gan]]
 	- [[Loét dạ dày tá tràng]]
-	- [[ung thư biểu mô tế bào gan]]
+	- [[Ung thư biểu mô tế bào gan]]
 	- [[Viêm tuỵ cấp]]
 	- [[Xơ gan]]
 	- [[Xuất huyết tiêu hoá do loét dạ dày tá tràng]]
