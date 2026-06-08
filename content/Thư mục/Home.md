@@ -1,9 +1,9 @@
 npx quartz sync
 
-![[Tiêu hoá]]
+![[Hô hấp]]
 
-![image.png](https://cdn.jsdelivr.net/gh/tien05072004obs/obsidian-images@main/img/20260524171111888.png)
+| Trực |                   |
+| ---- | ----------------- |
+| 01   | T 5 - Tầng 18     |
+| 02   | Sáng CN - Tầng 17 |
 
-**Tuần 1**:
-- OMP: Xơ gan + XHTH + K gan 
-- FS: Xơ gan + XHTH 

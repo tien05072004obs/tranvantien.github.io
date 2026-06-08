@@ -2,5 +2,5 @@
 - **Đặc điểm các chỉ số:**
     - **Tỷ trọng:** **< 1,016**.
     - **SAAG** (Độ chênh Albumin huyết thanh - Albumin dịch cổ trướng): **> 11 g/L**.
-        - _(SAAG > 11g/L là bằng chứng cốt lõi chứng tỏ cổ trướng này hình thành do [[Hội chứng tăng áp lực tĩnh mạch cửa]]. Áp lực thủy tĩnh trong tĩnh mạch cửa quá cao đẩy nước vọt ra ổ bụng nhưng giữ đại phân tử protein lại, khiến Albumin trong dịch ổ bụng rất thấp, tạo ra độ chênh lệch lớn so với Albumin trong máu)._
-    - **Tế bào học:** Bạch cầu đa nhân trung tính **< 250/mm3**. _(Nếu $\ge$ 250/mm3, bệnh nhân đã chuyển sang biến chứng [[Viêm phúc mạc nhiễm khuẩn tiên phát]])._
+	    - Tăng áp lực tĩnh mạch cửa → đẩy nước + giữ lại albumin → nồng độ albumin trong dịch ổ bụng thấp
+    - **Tế bào học:** Bạch cầu đa nhân trung tính **< 250/mm3**. 

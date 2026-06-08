@@ -108,15 +108,6 @@ Dưới đây là các **yếu tố nguy cơ liên quan mật thiết đến t�
 - **Tuổi tác:** Bệnh nhân **> 60 tuổi**.
 - **Cơ địa:** Bệnh nhân đang mắc các **bệnh lý ác tính** (như ung thư gan, ung thư đường mật, ung thư đại tràng...).
 
-## 2. Các Biến chứng Cấp tính
-
-Sự xuất hiện của các biến chứng này làm thay đổi hoàn toàn tiên lượng từ "có thể kiểm soát" sang "đe dọa tính mạng":
-
-- **Vỡ ổ áp xe:**
-	- Mủ vỡ tràn vào khoang phúc mạc gây viêm phúc mạc toàn thể, hoặc vỡ lên khoang màng phổi, màng tim gây chèn ép tạng cấp tính. Lượng lớn vi khuẩn và độc tố giải phóng ồ ạt sẽ kích hoạt hội chứng đáp ứng viêm hệ thống - SIRS).
-- **Nhiễm khuẩn huyết (Sepsis):**.
-	- Vi khuẩn tràn vào hệ tuần hoàn. Nếu không can thiệp kịp thời sẽ dẫn đến **Sốc nhiễm khuẩn** - giãn mạch toàn thân, tụt huyết áp kháng trị và suy đa tạng).
-
 ## 3. Các Chỉ số Cận lâm sàng Cảnh báo Tiên lượng Nặng
 ### 3.1. Dấu hiệu Suy tế bào gan nặng
 
@@ -127,6 +118,15 @@ Sự xuất hiện của các biến chứng này làm thay đổi hoàn toàn t
 	- Gan là kho dự trữ Glycogen và tân tạo đường. Khi nhu mô gan bị phá hủy nặng, gan mất khả năng cung cấp glucose cho máu, làm bệnh nhân dễ rơi vào hôn mê)
 - **Rối loạn đông máu:**.
 	- Hầu hết các yếu tố đông máu được tổng hợp tại gan. Rối loạn đông máu chỉ điểm suy gan cấp hoặc bệnh nhân đang tiến triển hội chứng đông máu rải rác trong lòng mạch - DIC do nhiễm khuẩn huyết)
+
+## 2. Các Biến chứng Cấp tính
+
+Sự xuất hiện của các biến chứng này làm thay đổi hoàn toàn tiên lượng từ "có thể kiểm soát" sang "đe dọa tính mạng":
+
+- **Vỡ ổ áp xe:**
+	- Mủ vỡ tràn vào khoang phúc mạc gây viêm phúc mạc toàn thể, hoặc vỡ lên khoang màng phổi, màng tim gây chèn ép tạng cấp tính. Lượng lớn vi khuẩn và độc tố giải phóng ồ ạt sẽ kích hoạt hội chứng đáp ứng viêm hệ thống - SIRS).
+- **Nhiễm khuẩn huyết (Sepsis):**.
+	- Vi khuẩn tràn vào hệ tuần hoàn. Nếu không can thiệp kịp thời sẽ dẫn đến **Sốc nhiễm khuẩn** - giãn mạch toàn thân, tụt huyết áp kháng trị và suy đa tạng).
 
 ### 3.2. Dấu hiệu Suy Thận (Hội chứng Gan - Thận / Tổn thương thận cấp)
 

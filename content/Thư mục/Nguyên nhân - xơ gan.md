@@ -2,7 +2,7 @@
 Đây là nhóm nguyên nhân hàng đầu, chiếm trên **90%** tổng số các trường hợp [[Xơ gan]] trên lâm sàng:
 
 - **Nhiễm virus viêm gan:** Các loại virus **[[Viêm gan B]]**, **[[Viêm gan C]]** và **[[Viêm gan D]]**.
-- **Lạm dụng rượu:** Tổn thương gan do **[[Rượu]]** kéo dài.
+- **Lạm dụng rượu:** Tổn thương gan do Rượu kéo dài.
 ### Các nguyên nhân khác
 - **Nhiễm khuẩn và Ký sinh trùng:**
     - Bệnh **[[Sán máng]]** (Schistosomiasis).
@@ -12,7 +12,7 @@
     - **[[Viêm gan do thoái hóa mỡ không do rượu]]** (NASH).
     - **[[Bệnh Wilson]]** (rối loạn chuyển hóa đồng).
     - **[[Hemochromatosis]]** (bệnh ứ sắt huyết sắc tố).
-    - Thiếu hụt enzym **[[Alpha 1-antitrypsin]]**.
+    - Thiếu hụt enzym Alpha 1-antitrypsin.
     - Các bệnh lý ứ đọng/rối loạn chuyển hóa khác: Bệnh gan ứ đọng glycogen, bệnh gan xơ hóa dạng nang, tăng tyrosin máu, tăng galactose máu, không dung nạp Fructose, tăng abetalipoprotein máu, Mucopolysaccharidosis, Porphyrin niệu.
 - **Bệnh lý đường mật:** Các tình trạng **tắc mật** (cả trong và ngoài gan) kéo dài.
 - **Bệnh lý tự miễn:**

@@ -1,11 +1,6 @@
 %% Begin Waypoint %%
 - **[[Cơ xương khớp]]**
-- **Hô hấp**
-	- **01. LEC**
-	- **02. CBA**
-	- **03. FS**
-	- **04. OMP**
-	- **05. FS**
+- **[[Hô hấp]]**
 - **Thận tiết niệu**
 	- **01. LEC**
 	- **02. CBA**

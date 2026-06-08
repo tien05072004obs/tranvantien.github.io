@@ -24,7 +24,7 @@
 
 ### Thực thể 
 
-[[Khám gan to]]
+[[Kĩ năng khám gan to]]
 - **Nhìn** 
 	- [[Hội chứng tăng áp lực tĩnh mạch cửa]]: Cổ chướng, tuần hoàn bàng hệ
 - **Sờ, gõ**

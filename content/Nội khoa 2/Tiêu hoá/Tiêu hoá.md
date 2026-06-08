@@ -20,5 +20,6 @@
 	- [[OMP loét dạ dày hành tá tràng]]
 	- [[OMP ung thư gan]]
 - **05. BỆNH ÁN**
+	- [[Bệnh án tiêu hoá - XHTH do loét]]
 
 %% End Waypoint %%

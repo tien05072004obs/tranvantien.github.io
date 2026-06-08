@@ -1,7 +1,7 @@
 ---
 title: Y khoa
 ---
-![[Tiêu hoá]]
+![[Hô hấp]]
 
 
 

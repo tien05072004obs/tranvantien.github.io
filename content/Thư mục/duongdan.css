@@ -1,0 +1,9 @@
+/* Ép thanh Breadcrumbs và toàn bộ View Header luôn hiển thị rõ ràng */
+.workspace-leaf .view-header,
+.view-header-title-container,
+.view-header-breadcrumb {
+    opacity: 1 !important;
+    visibility: visible !important;
+    display: flex !important;
+    transition: none !important;
+}

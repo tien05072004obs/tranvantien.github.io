@@ -1,41 +1,29 @@
-# 1. Cơ chế bệnh sinh cốt lõi
+1. Sức khỏe sa sút, ăn kém. Có thể có các rối loạn về thần kinh và tâm thần: run tay, chậm chạp, mất ngủ.
 
-Hội chứng này là hệ quả trực tiếp của việc "nhà máy" gan bị xơ hóa và phá hủy cấu trúc, dẫn đến sự đình trệ của 3 nhóm chức năng sinh lý cơ bản:
+2. Suy giảm tình dục xuất hiện rõ hơn.
 
-- **Rối loạn chức năng tổng hợp:** Tế bào gan suy yếu làm giảm sản xuất **[[Albumin]]** và các **Yếu tố đông máu**.
-- **Rối loạn chức năng thải độc:** Gan không còn khả năng chuyển hóa và đào thải các chất độc hoặc nội tiết tố, bao gồm **[[Bilirubin]]**, **Amoniac (NH3)** và hormone **Estrogen**.
-- **Rối loạn chức năng chuyển hóa và dự trữ:** Mất cân bằng trong chuyển hóa glucid, lipid và protein dẫn đến rối loạn đường huyết và teo cơ.
+3. Dấu hiệu ở da:
+- Xuất huyết dưới da.
+- Sao mạch dưới da. Lòng bàn tay son.
+- Bệnh Madelung: Là bệnh rối loạn chuyển hóa mỡ dẫn đến tích tụ mỡ dưới da đối xứng ở cổ, vùng dưới chẩm, và vai có thể xuất hiện ở đối tượng tuổi trung niên, nam giới với bệnh gan do rượu.
 
-# 2. Triệu chứng Lâm sàng
+4. Dấu hiệu cơ xương khớp
+- Ngón tay dùi trống và bệnh phình trướng xương khớp.
+- Co thắt dupuytren là tình trạng dày mô dưới da lòng bàn tay, có thể xuất hiện trong xơ gan do rượu nhưng cũng có thể là vô căn.
+- Bệnh thiểu cơ: Suy dinh dưỡng và thiểu cơ, mất khối lượng cơ và chức năng cơ, xảy ra trong 40-70% của bệnh xơ gan.
 
-Các biểu hiện này đánh dấu bệnh nhân đã bước vào giai đoạn **[[Xơ gan mất bù]]**.
+5. Thay đổi nội tiết
+- Tăng glucose huyết: Trong khi có tới 80% bệnh nhân xơ gan không dung nạp glucose, chỉ có 20-30% thực sự mắc bệnh tiểu đường. Tỷ lệ mắc bệnh tiểu đường tăng lên ở những người mắc gan nhiễm mỡ, viêm gan C, xơ gan do rượu và bệnh tan máu bẩm sinh.
+- Chứng chuột rút: Chuột rút cơ bắp xảy ra ở 2/3 bệnh nhân xơ gan và có liên quan đến suy giảm đáng kể chất lượng cuộc sống.
 
-## 2.1. Triệu chứng Toàn thân & Thần kinh
+6. Chảy máu mũi, chảy máu chân răng.
 
-- **Cơ năng:** Sức khỏe sa sút nghiêm trọng, mệt mỏi, ăn kém.
-- **Rối loạn thần kinh - tâm thần:** Bệnh nhân có thể chậm chạp, mất ngủ, hoặc có dấu hiệu run tay. 
-	- _(Đây là những dấu hiệu sớm báo hiệu sự tích tụ của NH3 không được gan chuyển hóa, có thể tiến triển thành **[[Hội chứng não gan]]**)._
+7. Có thể có sốt.
 
-## 2.2. Biểu hiện Da và Niêm mạc
+8. Vàng da từ nhẹ đến nặng.
 
-- **[[Vàng da - xơ gan|Vàng da]] đậm:** Do gan giảm hoặc mất khả năng thu nhận và liên hợp Bilirubin để thải ra đường mật.
-- **Hội chứng xuất huyết:** Thường biểu hiện dưới dạng xuất huyết dưới da, xuất huyết niêm mạc (chảy máu cam, chảy máu chân răng), hoặc các đám bầm tím.
-	- _(Là hậu quả trực tiếp của việc gan suy giảm chức năng tổng hợp các yếu tố đông máu)._
-- **[[Sao mạch]] & [[Lòng bàn tay son]]:** Sao mạch thường mọc ở cổ, mặt, lưng, ngực, chi trên. Bàn tay ấm, có màu đỏ tươi ở ô mô cái, ô mô út và các ngón. 
-	- _(Khi gan suy, hormone Estrogen không bị phân hủy sẽ tích tụ lại trong máu gây giãn hệ thống mao mạch ngoại vi)._
-- **[[Bệnh Madelung]]:** Sự tích tụ mỡ dưới da đối xứng ở vùng cổ, dưới chẩm và vai. Dấu hiệu này đặc trưng ở nam giới trung niên bị **[[Xơ gan do rượu]]**.
+9. Phù 2 chi: phù mềm, ấn lõm.
 
-## 2.3. Biểu hiện Nội tiết & Chuyển hóa
+10. Cổ trướng có thể có từ mức độ vừa đến rất to.
 
-- **Rối loạn đường huyết:** Tình trạng **[[Tăng glucose huyết]]** cực kỳ phổ biến. Có tới 80% bệnh nhân xơ gan mắc chứng không dung nạp glucose và 20-30% thực sự tiến triển thành Đái tháo đường.
-- **Suy giảm sinh dục:** Ở nam giới, thể hiện qua việc giảm ham muốn, bất lực, tinh hoàn teo mềm, rụng râu và rụng lông (ít phải cạo râu). Có thể xuất hiện triệu chứng **nữ hóa tuyến vú** 
-	- _(Cùng một cơ chế do ứ đọng Estrogen nội sinh)_.
-- **Rối loạn thai kỳ:** Nữ giới xơ gan vẫn có thể mang thai nhưng nguy cơ biến chứng rất cao.
-
-## 2.4. Biểu hiện Cơ - Xương - Khớp
-
-- **[[Bệnh Thiểu cơ]] (Sarcopenia):** Bệnh nhân bị mất khối lượng và chức năng cơ bắp, xảy ra ở **40-70%** các trường hợp. 
-	- _(Do gan mất khả năng chuyển hóa và dự trữ protein)._
-- **Chứng chuột rút:** Rất thường gặp (khoảng 2/3 số bệnh nhân), ảnh hưởng lớn đến chất lượng sống.
-- **Co thắt Dupuytren:** Tình trạng xơ hóa và dày mô dưới da lòng bàn tay (thường liên quan tới xơ gan do rượu).
-- **Ngón tay dùi trống** và bệnh phình trướng xương khớp.
+11. Gan nếu sờ thấy - mật độ cứng.

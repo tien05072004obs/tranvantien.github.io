@@ -19,17 +19,5 @@ Hãy đọc đoạn văn bản tôi cung cấp ở cuối tin nhắn này và ch
 
 5. Chủ động giải thích các triệu chứng hoặc các hội chứng, dấu hiệu lâm sàng,.. mà có thể sinh viên mới học chưa hiểu rõ
 
-**Yêu cầu về Định dạng (Obsidian Markdown):**
-
-- Dùng hệ thống Heading (`#`, `##`, `###`) để phân cấp thông tin rõ ràng.
-    
-- Dùng Bullet points (`-`) để liệt kê.
-    
-- **In đậm** các từ khóa, triệu chứng lâm sàng/cận lâm sàng quan trọng, hoặc các chỉ số.
-
-- Kẻ bảng nếu cần thiết
-
 **Đoạn thông tin cần xử lý:**
-Áp xe gan - tiên lượng áp xe gan do vi khuẩn   
-
-
+Những thể viêm phổi khác - viêm phổi mắc phải cộng đồng
