@@ -20,4 +20,4 @@ Hãy đọc đoạn văn bản tôi cung cấp ở cuối tin nhắn này và ch
 5. Chủ động giải thích các triệu chứng hoặc các hội chứng, dấu hiệu lâm sàng,.. mà có thể sinh viên mới học chưa hiểu rõ
 
 **Đoạn thông tin cần xử lý:**
-Những thể viêm phổi khác - viêm phổi mắc phải cộng đồng
+Cận lâm sàng - COPD
